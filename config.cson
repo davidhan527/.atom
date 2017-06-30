@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "67046936-8d89-4624-817e-c23d78ea08b7"
+  fonts: {}
+  "linter-ui-default": {}
+  "ruby-test":
+    rspecAllCommand: "zeus rspec --tty spec"
+    rspecFileCommand: "zeus rspec --tty {relative_path}"
+    rspecSingleCommand: "zeus rspec --tty {relative_path}:{line_number}"
+    specFramework: "rspec"
+".rspec.ruby.source":
+  editor:
+    scrollPastEnd: true

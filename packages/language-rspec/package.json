@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+        "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-117530-26647-1v2x6p3.invghw7b9"
+    ]
+  ],
+  "_from": "../d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+  "_id": "language-rspec@0.6.2",
+  "_inCache": true,
+  "_location": "/language-rspec",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+    "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+  "_shasum": "c9f4eb895289eaa78e251cf6f13552e43982ec58",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-26647-1s5paqt.1g2yj2x1or/package.tgz",
+  "_where": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-117530-26647-1v2x6p3.invghw7b9",
+  "bugs": {
+    "url": "https://github.com/paveldruzyak/language-rspec/issues"
+  },
+  "dependencies": {},
+  "description": "RSpec language package for Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/paveldruzyak/language-rspec#readme",
+  "keywords": [
+    "rspec",
+    "spec",
+    "ruby",
+    "test",
+    "bdd"
+  ],
+  "license": "MIT",
+  "main": "./lib/language-rspec",
+  "name": "language-rspec",
+  "optionalDependencies": {},
+  "readme": "[![Build Status](https://travis-ci.org/paveldruzyak/language-rspec.svg?branch=master)](https://travis-ci.org/paveldruzyak/language-rspec)\n\n# RSpec language support in Atom\n\nAdds syntax highlighting and snippets to RSpec file in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [RSpec TextMate bundle](https://github.com/rspec/rspec-tmbundle).\n\nContributions are greatly appreciated. Please fork this repository and open a\npull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paveldruzyak/language-rspec.git"
+  },
+  "version": "0.6.2",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/language-rspec.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

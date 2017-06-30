@@ -1,0 +1,22 @@
+'atom-workspace':
+  'ctrl-i':     'cursor-history:next'
+  'ctrl-o':     'cursor-history:prev'
+  'ctrl-cmd-i': 'cursor-history:next-within-editor'
+  'ctrl-cmd-o': 'cursor-history:prev-within-editor'
+
+'atom-text-editor.vim-mode-plus.insert-mode':
+  'k j': 'vim-mode-plus:activate-normal-mode'
+
+'atom-text-editor':
+    'ctrl-k': 'unset!'
+'body':
+  'ctrl-h': 'window:focus-pane-on-left'
+  'ctrl-l': 'window:focus-pane-on-right'
+  'ctrl-k': 'window:focus-pane-above'
+  'ctrl-j': 'window:focus-pane-below'
+  'cmd-alt-2': 'pane:split-right'
+  'cmd-alt-3': 'pane:split-down'
+  'ctrl-p': 'unset!'
+
+'.platform-darwin':
+  'ctrl-p': 'fuzzy-finder:toggle-file-finder'
