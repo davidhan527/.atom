@@ -20,3 +20,5 @@
 
 '.platform-darwin':
   'ctrl-p': 'fuzzy-finder:toggle-file-finder'
+  # Remap default toggle tree view cmd to reveal active file
+  'cmd-\\': 'tree-view:reveal-active-file'

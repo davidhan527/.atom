@@ -3,15 +3,21 @@
     telemetryConsent: "no"
   editor:
     fontSize: 17
+    preferredLineLength: 120
   "exception-reporting":
     userId: "67046936-8d89-4624-817e-c23d78ea08b7"
   fonts: {}
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 69
+  "pull-requests":
+    githubAuthorizationToken: "69384b80a64363ce52e8123e449f0120cf592c08"
   "ruby-test":
     rspecAllCommand: "zeus rspec --tty spec"
     rspecFileCommand: "zeus rspec --tty {relative_path}"
     rspecSingleCommand: "zeus rspec --tty {relative_path}:{line_number}"
     specFramework: "rspec"
+  welcome:
+    showOnStartup: false
 ".rspec.ruby.source":
   editor:
     scrollPastEnd: true

@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
+        "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
-        "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
+        "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
+        "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-117530-36927-cimznv.lnws0mgqfr"
+      "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-11766-17954-3xx4er.b59pqwu3di"
     ]
   ],
-  "_from": "../d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
-  "_id": "platformio-ide-terminal@2.5.1",
+  "_from": "../d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
+  "_id": "platformio-ide-terminal@2.5.3",
   "_inCache": true,
   "_location": "/platformio-ide-terminal",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
+    "raw": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
-    "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
+    "rawSpec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
+    "spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
-  "_shasum": "0ec8b37e2f00f7deea2b154cafb1473370030d9b",
+  "_resolved": "file:../d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
+  "_shasum": "4f0f1c44a325441f3019927d49e84de24f6b55c2",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-117530-36927-1n2h21w.mfgioogvi/package.tgz",
-  "_where": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-117530-36927-cimznv.lnws0mgqfr",
+  "_spec": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/d-11766-17954-c0um8v.gr8hrm5cdi/package.tgz",
+  "_where": "/private/var/folders/76/dyw79prj50b944mky_sn_g3c0000gn/T/apm-install-dir-11766-17954-3xx4er.b59pqwu3di",
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
@@ -113,7 +113,7 @@
     "type": "git",
     "url": "git+https://github.com/platformio/platformio-atom-ide-terminal.git"
   },
-  "version": "2.5.1",
+  "version": "2.5.3",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [
